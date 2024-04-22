@@ -1,2 +1,6 @@
-# Senior_Design_50
-NCSU ECE Senior Design Project 50 F23-SP24
+# ECE 484 - Senior Design
+## Project 50: Residential Power Disaggregation
+
+Team Members: Andrew Bailey, Ralph Cullom, Manny Harris, Labib Kasim
+
+Sponor - Mentor: ABB - Huangjie Gong
