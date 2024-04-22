@@ -1,4 +1,4 @@
-# ECE 484 - Senior Design
+# ECE 484/485 - Senior Design
 ## Project 50: Residential Power Disaggregation
 
 Team Members: Andrew Bailey, Ralph Cullom, Manny Harris, Labib Kasim
